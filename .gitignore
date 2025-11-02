@@ -1,0 +1,7 @@
+# Carpetas generadas por NetBeans e IntelliJ
+.idea/
+nbproject/private/
+build/
+out/
+*.iml
+
