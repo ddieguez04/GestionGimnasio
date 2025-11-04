@@ -42,7 +42,7 @@ Este proyecto se ejecuta en cualquier entorno de desarrollo Java estándar (IDE)
 
 1.  **Clonar Repositorio:**
     ```bash
-    git clone https://github.com/ddieguez04/GestionGimnasio.git
+    git clone https://github.com/daaviddieeguez/GestionGimnasio.git
     ```
 2.  **Abrir en IDE:** Abrir la carpeta del proyecto en su IDE preferido (ej. IntelliJ IDEA o NetBeans).
 3.  **Ejecutar:** Compilar y ejecutar la clase principal (el punto de entrada del programa).
